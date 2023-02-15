@@ -1,16 +1,15 @@
-### Hi there 👋
+### Привет, меня зовут Дмитрий 👋
 
-<!--
-**DmitriyLedovskih/DmitriyLedovskih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚛️ Начинаю учить React.js
+- ⚒️ Хочу сделать крупный проект
+- 📱 Хочу делать удобные интерфейсы
+- 🧠 Хочу развиваться во фронтенде
 
-Here are some ideas to get you started:
+### Мои навыки:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=#f7e01d)
+![Webpack](https://img.shields.io/badge/-Webpack-%231b7abf?style=for-the-badge&logo=webpack&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23f15135?style=for-the-badge&logo=git&logoColor=white)
+![Bem](https://img.shields.io/badge/-Бэм-%23000?style=for-the-badge&logo=bem&logoColor=white)
