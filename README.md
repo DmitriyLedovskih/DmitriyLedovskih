@@ -15,4 +15,4 @@
 ![Bem](https://img.shields.io/badge/-Бэм-333?style=for-the-badge&logo=bem&logoColor=fff)
 
 ## Моя статистика:
-[![Статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyLedovskih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyLedovskih&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
