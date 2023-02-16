@@ -1,15 +1,18 @@
-### Привет, меня зовут Дмитрий 👋
+# Привет 👋, меня зовут Дмитрий
 
 - ⚛️ Начинаю учить React.js
 - ⚒️ Хочу сделать крупный проект
 - 📱 Хочу делать удобные интерфейсы
 - 🧠 Хочу развиваться во фронтенде
 
-### Мои навыки:
+## Мои навыки:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=#f7e01d)
-![Webpack](https://img.shields.io/badge/-Webpack-%231b7abf?style=for-the-badge&logo=webpack&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23f15135?style=for-the-badge&logo=git&logoColor=white)
-![Bem](https://img.shields.io/badge/-Бэм-%23000?style=for-the-badge&logo=bem&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=webpack&logoColor=231b7abf)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=23f15135)
+![Bem](https://img.shields.io/badge/-Бэм-333?style=for-the-badge&logo=bem&logoColor=fff)
+
+## Моя статистика:
+[![Статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyLedovskih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
