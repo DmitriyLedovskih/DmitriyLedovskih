@@ -12,6 +12,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=webpack&logoColor=231b7abf)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=23f15135)
 ![Bem](https://img.shields.io/badge/-Бэм-333?style=for-the-badge&logo=bem&logoColor=fff)
+![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=03d5fc)
 
 ## 🏆 Моя статистика:
 ![Статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyLedovskih&theme=dark)
