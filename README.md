@@ -11,7 +11,7 @@
 ![SCSS](https://img.shields.io/badge/Scss-333?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=#f7e01d)
 ![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=webpack&logoColor=231b7abf)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=23f15135)
+![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=f15135)
 ![Bem](https://img.shields.io/badge/-Бэм-333?style=for-the-badge&logo=bem&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-333?style=for-the-badge&logo=react&logoColor=03d5fc)
 ![Redux Toolkit](https://img.shields.io/badge/Redux&nbsp;Toolkit-333?style=for-the-badge&logo=redux&logoColor=7549bc)
