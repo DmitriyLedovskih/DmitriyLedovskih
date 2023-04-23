@@ -10,6 +10,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SCSS](https://img.shields.io/badge/Scss-333?style=for-the-badge&logo=sass&logoColor=CC6699)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript&logoColor=#f7e01d)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript&logoColor=#017acc)
 ![Webpack](https://img.shields.io/badge/-Webpack-333?style=for-the-badge&logo=webpack&logoColor=231b7abf)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git&logoColor=f15135)
 ![Bem](https://img.shields.io/badge/-Бэм-333?style=for-the-badge&logo=bem&logoColor=fff)
