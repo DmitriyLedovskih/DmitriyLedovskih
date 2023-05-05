@@ -1,4 +1,4 @@
-# Привет, <img src="https://github.com/DmitriyLedovskih/portfolio/blob/main/src/images/hello.gif" width="28"> меня зовут Дмитрий
+# Привет, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> меня зовут Дмитрий
 
 - ⚛️ Учу React.js
 - ⚒️ Хочу сделать крупный проект
