@@ -24,8 +24,8 @@
 ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=ff6c37)
 ![VSCode](https://img.shields.io/badge/VSCode-333?style=for-the-badge&logo=visualstudiocode&logoColor=259fee)
 ![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma&logoColor=fff)
-![Git Bash](https://img.shields.io/badge/Git&nbsp;Bash-333?style=for-the-badge&logo=git&logoColor=f15135)
-![Npm](https://img.shields.io/badge/Npm-333?style=for-the-badge&logo=npm&logoColor=fff)
+![Git Bash](https://img.shields.io/badge/Git&nbsp;Bash-333?style=for-the-badge&logo=git)
+![Npm](https://img.shields.io/badge/Npm-333?style=for-the-badge&logo=npm)
 
 ## 📞 Мои контакты:
 [![VK](https://img.shields.io/badge/ВКонтакте-333?style=for-the-badge&logo=vk&logoColor=4e739b)](https://vk.com/ledovskihdmitriy)
