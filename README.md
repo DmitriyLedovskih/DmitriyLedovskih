@@ -1,7 +1,5 @@
 # Привет, <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"> меня зовут Дмитрий
 
-- ⚛️ Учу Next.js
-- ⚒️ Хочу сделать крупный проект
 - 📱 Хочу делать удобные интерфейсы
 - 🧠 Хочу развиваться во фронтенде
 
@@ -15,6 +13,7 @@
 ![Git](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git&logoColor=f15135)
 ![Bem](https://img.shields.io/badge/Бэм-333?style=for-the-badge&logo=bem&logoColor=fff)
 ![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=03d5fc)
+![NextJS](https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=next.js&logoColor=fff)
 ![Redux Toolkit](https://img.shields.io/badge/Redux&nbsp;Toolkit-333?style=for-the-badge&logo=redux&logoColor=7549bc)
 ![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=node.js&logoColor=90c640)
 ![Express](https://img.shields.io/badge/Express-333?style=for-the-badge&logo=express&logoColor=fff)
